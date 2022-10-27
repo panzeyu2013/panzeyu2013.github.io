@@ -8,7 +8,7 @@
     <link href="/2022/10/27/svm/"/>
     <url>/2022/10/27/svm/</url>
     
-    <content type="html"><![CDATA[<p>![img1][Page1.jpg]<br>![img2][Page2.jpg]</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/10/27/svm/Page1.jpg" alt="img1"><br><img src="/2022/10/27/svm/Page2.jpg" alt="img2"></p>]]></content>
     
     
     <categories>
